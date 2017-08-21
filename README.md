@@ -1,4 +1,9 @@
 # Nim-Game-in-Java
+
+- nim.java : Two player Nim
+- nimC.java : Human player against stupid computer
+- nimCC.java : Human player against a smart computer
+
 Nim is a strategy game between two players. This project implements the Nim game between a player and an intelligent computer.
 
 Following are the rules for the Nim game:
